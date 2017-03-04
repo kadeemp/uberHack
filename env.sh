@@ -1,3 +1,5 @@
+export MONGODB_URI="mongodb://claire:claire@ds115870.mlab.com:15870/ubergame"
+export SECRET='GAMES'
 export CLIENT_ID="xLt-mOBLgLwpml32mJHdPjQX0oiKo4ei"
 export SERVER_TOKEN="_ZocO8gDCAjWwQzIpmzjwgY01h_tCmRA0PYrsRg8"
 export CLIENT_SECRET="cJYFbG3A_lTXoZlF0NgJp2LE_P0m2xHui9w9ZdL-"

@@ -1,0 +1,11 @@
+<div>
+  <div class = "mainprofile">
+    <h1> {{me.first_name}}'s Game Room </h1>
+    <img src="{{pic}}"></img>
+  </div>
+  {{#each everyone}}
+    <div class = "riders">
+      <h1>{{this.first_name}}</h1>
+    </div>
+  {{/each}}
+</div>

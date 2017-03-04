@@ -55,12 +55,12 @@
   "riders": [
     {
        "rider_id":"8KwsIO_YG6Y2jijSMf",
-       "first_name":"Alec",
+       "first_name":"Shree",
        "me": true
     },
     {
-       "rider_id":null,
-       "first_name":"Kevin",
+       "rider_id":"123345678",
+       "first_name":"Claire",
        "me": false
     }
   ]
