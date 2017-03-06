@@ -9,6 +9,7 @@ var riderSchema = mongoose.Schema({
 
 
 var gameroomSchema = mongoose.Schema({
+  gameName: String,
   players: [{type: mongoose.Schema.Types.ObjectId, ref: 'Rider'}],
   score: Number,
   inProgress: Boolean //if game is continuing.

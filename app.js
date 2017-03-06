@@ -120,6 +120,7 @@ app.get('/api/callback', function(req,res){
       }
     })
     var game = new Gameroom({
+      gameName: "Tic Tac Toe",
       inProgress: true,
       players: saveEveryone
 
